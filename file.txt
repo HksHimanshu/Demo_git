@@ -8,3 +8,5 @@ i am now using reset  --soft head
 i am now using reset  --soft head again
 
 checking ammend
+
+revert command chanign
