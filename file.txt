@@ -3,6 +3,7 @@ I am writing it for the first time
 
 Himanshu Kumar
 walkover web university
+<<<<<<< HEAD
 
 i am now using reset  --soft head
 i am now using reset  --soft head again
@@ -10,3 +11,5 @@ i am now using reset  --soft head again
 checking ammend
 
 revert command chanign
+=======
+>>>>>>> parent of 4e9f875 (changed newer, file.txt)
