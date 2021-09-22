@@ -13,3 +13,4 @@ checking ammend
 revert command chanign
 =======
 >>>>>>> parent of 4e9f875 (changed newer, file.txt)
+newwwllllyy
